@@ -29,7 +29,7 @@ $ cd EsBTCv2
 
 (editar cfg.php = cookie, uid, user_agent, hash_ini)
 
-$ php bot.php
+$ python bot.py
 
 -----------------------------------------------------------------
 
