@@ -23,7 +23,7 @@ $ termux-setup-storage
 
 $ cd /sdcard/downloads
 
-$ git clone 
+$ git clone https://github.com/tudineroweb/EsBTCv2.git
 
 $ cd EsBTCv2
 
