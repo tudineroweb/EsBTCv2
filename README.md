@@ -34,5 +34,6 @@ $ python bot.py
 -----------------------------------------------------------------
 
   video Tutorial: https://youtu.be/nrYzA_ds_74
+  
 cualquier error informar
   
